@@ -8,17 +8,9 @@
   <title>Expense Manager</title>
 </head>
 <body>
-  <!-- Main container for animations -->
-  <div class="container">
-    <!-- Typing effect container -->
-    <div class="typing-container"></div>
-    
-    <!-- Login button inside the same container -->
-    <div class="login-btn-container">
-      <button class="btn" onclick="navigateToCustomerLogin()">Customer Login</button>
-      <button class="btn" onclick="navigateToOwnerLogin()">Owner Login</button>
-    </div>
-  </div>
+
+      <button class="btn" >Customer Login</button>
+      <button class="btn" >Owner Login</button>
 
 </body>
 </html>
